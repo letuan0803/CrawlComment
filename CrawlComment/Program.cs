@@ -8,6 +8,7 @@ namespace CrawlComment
 {
     class Program
     {
+
         static void Main(string[] args)
         {
         }
