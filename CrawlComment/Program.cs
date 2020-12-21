@@ -11,6 +11,9 @@ namespace CrawlComment
 
         static void Main(string[] args)
         {
+            GetComment getComment = new GetComment();
+            getComment.GetProduct(limit: 5);
+            //getComment.GetCmt();
         }
     }
 }

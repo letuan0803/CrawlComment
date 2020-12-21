@@ -110,7 +110,8 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="GetComment.cs" />
-    <Compile Include="Model\Comment.cs" />
+    <Compile Include="Model\CommentModal.cs" />
+    <Compile Include="Model\ProductModal.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace CrawlComment.Model
 {
-    class Comment
+    class CommentModal
     {
         public class Video
         {
