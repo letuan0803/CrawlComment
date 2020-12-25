@@ -111,6 +111,8 @@
   <ItemGroup>
     <Compile Include="GetComment.cs" />
     <Compile Include="Model\CommentModal.cs" />
+    <Compile Include="Model\GetCommentModal.cs" />
+    <Compile Include="Model\GetProductModal.cs" />
     <Compile Include="Model\ProductModal.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
